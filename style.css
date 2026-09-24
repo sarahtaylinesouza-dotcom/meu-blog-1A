@@ -1,0 +1,21 @@
+header {
+    background-color: #FFEE8C;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+main {
+    background-color: #FFFFFF;
+    color: #FFEE8C;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
+
+img {
+    width: 800px;
+    height: 300px;
+}
